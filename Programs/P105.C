@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 #include<conio.h>
-#define DISCOUNT /*opposite of #define DISCOUNT*/
+#undef DISCOUNT /*opposite of #define DISCOUNT*/
 		/*used instead of deleting macro definition*/
 		/*this is called miscellaneous directives*/
 
