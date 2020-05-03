@@ -27,7 +27,7 @@
 ## Table of Contents
 
 | Program Name                     | Description                          |
-| :-----------------------------:  | :--------------------------------:   |
+| :-----------------------------:  | :--------------------------------    |
 |[P1.C](Programs/P1.C)             |A simple hello world message in C|
 |[P2.C](Programs/P2.C)             |Precedence of Operators and Typecasting|
 |[P3.C](Programs/P3.C)             |Calculate Simple Interest|
